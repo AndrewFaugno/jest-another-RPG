@@ -1,6 +1,5 @@
 
   # Jest Another RPG
-  ![]()
 
   ## Description
   Command line rpg game with potions
@@ -14,18 +13,16 @@
   
   
   ## Installation
-  Clone repo, run 'npm i'
+  Clone repo then run 'npm i' in terminal to download dependencies.
   
   ## Usage
-  Type 'node app' in terminal.
+  Type 'node app' in terminal to start the game.
 
   ## Contribution
   .
 
   ## Test
   'npm run test'
-
-  
 
   ## Questions
   If you have any questions or issues please contact me [here](mailto:andrewfaugno825@gmail.com). </br>
